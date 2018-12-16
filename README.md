@@ -1,3 +1,3 @@
 # Responsive-Portfolio
 
-https://michellechanda.github.io/Responsive-Portfolio/
+https://michelle-you.github.io/Responsive-Portfolio/
